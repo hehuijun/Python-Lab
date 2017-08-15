@@ -1,5 +1,5 @@
 
-使用Anaconda用Python做词云
+使用wordcloud做词云
 -----------------------
 
 安装Anaconda
