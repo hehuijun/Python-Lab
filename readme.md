@@ -12,7 +12,8 @@
 ###
   Python开发环境建议用Anaconda，下载地址：
 ###
-  https://www.continuum.io/downloads/
+  https://www.anaconda.com/download/
+  鉴于Python的语言支持，请选择Python 3.7 version版本的Anaconda，并根据电脑操作系统选择64位或32位。
 ###
   Python学习阶段的IDE建议用Anaconda集成的Jupyter notebook
 
