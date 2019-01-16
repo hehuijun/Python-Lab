@@ -7,15 +7,23 @@
 ###
   本群分享地址：https://github.com/hehuijun/Python-Lab
 
-开发环境
+初学开发环境
 ------
 ###
   Python开发环境建议用Anaconda，下载地址：
 ###
   https://www.anaconda.com/download/
+###
   鉴于Python的语言支持，请选择Python 3.7 version版本的Anaconda，并根据电脑操作系统选择64位或32位。
 ###
   Python学习阶段的IDE建议用Anaconda集成的Jupyter notebook
+
+实际开发环境
+------
+###
+  集成IDE推荐使用PyCharm（免费版：Community，收费版：Professional），下载地址：
+###
+  https://www.jetbrains.com/pycharm/download
 
 Python学习
 ------
